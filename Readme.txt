@@ -4,7 +4,7 @@ Assi Maurel Gemeri
 Coulibaly Fousseni
 Zalo Franck
 
-
+NB: Les tests sur l'emulateur de Apple 11 pro max sont les plus rapides sur la machine distante
 
 
 Information tp2(Tableviews)
